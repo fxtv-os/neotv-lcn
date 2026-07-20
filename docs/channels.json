@@ -1,0 +1,1706 @@
+[
+  {
+    "id": "DasErste.de",
+    "name": "Das Erste HD",
+    "lcn": 1,
+    "position": 1
+  },
+  {
+    "id": "ZDF.de",
+    "name": "ZDF HD",
+    "lcn": 2,
+    "position": 2
+  },
+  {
+    "id": "ProSieben.de",
+    "name": "ProSieben HD",
+    "lcn": 4,
+    "position": 4
+  },
+  {
+    "id": "RTL.de",
+    "name": "RTL HD",
+    "lcn": 3,
+    "position": 3
+  },
+  {
+    "id": "rtl2.de",
+    "name": "RTLZWEI HD",
+    "lcn": 8,
+    "position": 8
+  },
+  {
+    "id": "sat1.de",
+    "name": "SAT.1 HD",
+    "lcn": 6,
+    "position": 6
+  },
+  {
+    "id": "vox.de",
+    "name": "VOX HD",
+    "lcn": 5,
+    "position": 5
+  },
+  {
+    "id": "KabelEins.de",
+    "name": "kabel eins",
+    "lcn": 7,
+    "position": 7
+  },
+  {
+    "id": "SuperRTL.de",
+    "name": "Super RTL HD",
+    "lcn": 17,
+    "position": 17
+  },
+  {
+    "id": "zdf_neo.de",
+    "name": "ZDFneo HD",
+    "lcn": 12,
+    "position": 12
+  },
+  {
+    "id": "SAT1GOLD.de",
+    "name": "SAT.1 Gold SD",
+    "lcn": 20,
+    "position": 20
+  },
+  {
+    "id": "sixx.de",
+    "name": "sixx",
+    "lcn": 25,
+    "position": 25
+  },
+  {
+    "id": "ZDFinfo.de",
+    "name": "ZDFinfo HD",
+    "lcn": 10,
+    "position": 10
+  },
+  {
+    "id": "WDRFernsehenKöln.de",
+    "name": "WDR Fernsehen HD",
+    "lcn": 24,
+    "position": 24
+  },
+  {
+    "id": "WDRFernsehenKöln.de",
+    "name": "WDR Fernsehen Aachen HD",
+    "lcn": null,
+    "position": 124
+  },
+  {
+    "id": "WDRFernsehenKöln.de",
+    "name": "WDR Fernsehen Bielefeld HD",
+    "lcn": null,
+    "position": 125
+  },
+  {
+    "id": "WDRFernsehenKöln.de",
+    "name": "WDR Fernsehen Bonn HD",
+    "lcn": null,
+    "position": 126
+  },
+  {
+    "id": "WDRFernsehenKöln.de",
+    "name": "WDR Fernsehen Dortmund HD",
+    "lcn": null,
+    "position": 127
+  },
+  {
+    "id": "WDRFernsehenKöln.de",
+    "name": "WDR Fernsehen Duisburg HD",
+    "lcn": 88,
+    "position": 88
+  },
+  {
+    "id": "WDRFernsehenKöln.de",
+    "name": "WDR Fernsehen Düsseldorf HD",
+    "lcn": 89,
+    "position": 89
+  },
+  {
+    "id": "WDRFernsehenKöln.de",
+    "name": "WDR Fernsehen Essen HD",
+    "lcn": null,
+    "position": 128
+  },
+  {
+    "id": "WDRFernsehenKöln.de",
+    "name": "WDR Fernsehen Münster HD",
+    "lcn": null,
+    "position": 129
+  },
+  {
+    "id": "WDRFernsehenKöln.de",
+    "name": "WDR Fernsehen Siegen HD",
+    "lcn": null,
+    "position": 130
+  },
+  {
+    "id": "WDRFernsehenKöln.de",
+    "name": "WDR Fernsehen Wuppertal HD",
+    "lcn": 93,
+    "position": 93
+  },
+  {
+    "id": "KiKA.de@SD",
+    "name": "KiKA HD [Not 24/7]",
+    "lcn": 37,
+    "position": 37
+  },
+  {
+    "id": "KiKA.de@HD",
+    "name": "KiKA HD",
+    "lcn": 37,
+    "position": 37
+  },
+  {
+    "id": "ARTE.de",
+    "name": "ARTE HD",
+    "lcn": 27,
+    "position": 27
+  },
+  {
+    "id": "ARTE.de",
+    "name": "arte HD",
+    "lcn": 27,
+    "position": 27
+  },
+  {
+    "id": "NDRHamburg.de",
+    "name": "NDR Hamburg HD",
+    "lcn": null,
+    "position": 131
+  },
+  {
+    "id": "NDRMecklenburg-Vorpommern.de",
+    "name": "NDR Mecklenburg-Vorpommern HD",
+    "lcn": null,
+    "position": 132
+  },
+  {
+    "id": "NDRFernsehenNiedersachsen.de",
+    "name": "NDR Niedersachsen HD",
+    "lcn": 28,
+    "position": 28
+  },
+  {
+    "id": "NDRSchleswig-Holstein.de",
+    "name": "NDR Schleswig-Holstein HD",
+    "lcn": null,
+    "position": 133
+  },
+  {
+    "id": "MDRSachsen.de",
+    "name": "MDR Fernsehen Sachsen HD",
+    "lcn": 21,
+    "position": 21
+  },
+  {
+    "id": "MDRSachsen-Anhalt.de",
+    "name": "MDR Fernsehen Sachsen-Anhalt HD",
+    "lcn": null,
+    "position": 134
+  },
+  {
+    "id": "MDRFernsehen.de",
+    "name": "MDR Fernsehen Thüringen HD",
+    "lcn": null,
+    "position": 135
+  },
+  {
+    "id": "3sat.de",
+    "name": "3sat HD",
+    "lcn": 30,
+    "position": 30
+  },
+  {
+    "id": "phoenix.de",
+    "name": "Phoenix HD",
+    "lcn": 29,
+    "position": 29
+  },
+  {
+    "id": "BRFernsehen.de@Nord",
+    "name": "BR Fernsehen Nord HD",
+    "lcn": null,
+    "position": 136
+  },
+  {
+    "id": "BRFernsehen.de@Sud",
+    "name": "BR Fernsehen Sud HD",
+    "lcn": 33,
+    "position": 33
+  },
+  {
+    "id": "rbbFernsehen.de",
+    "name": "RBB Berlin HD",
+    "lcn": 35,
+    "position": 35
+  },
+  {
+    "id": "DeluxeMusic.de@SD",
+    "name": "Deluxe Music HD",
+    "lcn": 41,
+    "position": 41
+  },
+  {
+    "id": "hrfernsehen.de@SD",
+    "name": "hr-fernsehen HD",
+    "lcn": 39,
+    "position": 39
+  },
+  {
+    "id": "hrfernsehen.de@HD",
+    "name": "hr-fernsehen HD",
+    "lcn": 39,
+    "position": 39
+  },
+  {
+    "id": "N24Doku.de@SD",
+    "name": "N24 Doku",
+    "lcn": 36,
+    "position": 36
+  },
+  {
+    "id": "tagesschau24.de@SD",
+    "name": "Tagesschau 24 HD",
+    "lcn": 38,
+    "position": 38
+  },
+  {
+    "id": "ARDalpha.de@SD",
+    "name": "ARD-alpha HD",
+    "lcn": 47,
+    "position": 47
+  },
+  {
+    "id": "SRFernsehen.de@SD",
+    "name": "SR Fernsehen HD",
+    "lcn": 49,
+    "position": 49
+  },
+  {
+    "id": "rbbFernsehen.de@Brandenburg",
+    "name": "RBB Brandenburg HD",
+    "lcn": null,
+    "position": 137
+  },
+  {
+    "id": "123tv.de@SD",
+    "name": "1-2-3 TV LD",
+    "lcn": null,
+    "position": 138
+  },
+  {
+    "id": "HSE.de@SD",
+    "name": "HSE HD",
+    "lcn": 96,
+    "position": 96
+  },
+  {
+    "id": "SonnenklarTV.de@SD",
+    "name": "Sonnenklar TV HD",
+    "lcn": 103,
+    "position": 103
+  },
+  {
+    "id": "Handystar.de@SD",
+    "name": "Handystar (404p) [Not 24/7]",
+    "lcn": 104,
+    "position": 104
+  },
+  {
+    "id": "AnixePlus.de@SD",
+    "name": "Anixe + LD",
+    "lcn": null,
+    "position": 139
+  },
+  {
+    "id": "BibelTV.de@SD",
+    "name": "Bibel TV HD",
+    "lcn": 110,
+    "position": 110
+  },
+  {
+    "id": "BibelTVImpuls.de@SD",
+    "name": "Bibel TV Impuls HD",
+    "lcn": null,
+    "position": 140
+  },
+  {
+    "id": "BibelTVMusik.de@SD",
+    "name": "Bibel TV Musik HD",
+    "lcn": null,
+    "position": 141
+  },
+  {
+    "id": "RiC.de@SD",
+    "name": "RiC HD",
+    "lcn": 123,
+    "position": 123
+  },
+  {
+    "id": "Dokusat.de@SD",
+    "name": "Dokusat HD",
+    "lcn": 116,
+    "position": 116
+  },
+  {
+    "id": "90210.de@DACH",
+    "name": "90210",
+    "lcn": null,
+    "position": 142
+  },
+  {
+    "id": "AdventureEarth.de@SD",
+    "name": "Adventure Earth HD",
+    "lcn": null,
+    "position": 143
+  },
+  {
+    "id": "AlexBerlin.de",
+    "name": "Alex Berlin HD",
+    "lcn": null,
+    "position": 144
+  },
+  {
+    "id": "AllehassenChris.de@DACH",
+    "name": "Alle hassen Chris",
+    "lcn": null,
+    "position": 145
+  },
+  {
+    "id": "AllgauTV.de@SD",
+    "name": "Allgäu TV HD",
+    "lcn": null,
+    "position": 146
+  },
+  {
+    "id": "AnixeHDSerie.de@SD",
+    "name": "Anixe HD Serie LD",
+    "lcn": null,
+    "position": 147
+  },
+  {
+    "id": "AristoTV.de@SD",
+    "name": "Aristo TV LD",
+    "lcn": null,
+    "position": 148
+  },
+  {
+    "id": "AuctionHunters.de@DACH",
+    "name": "Auction Hunters",
+    "lcn": null,
+    "position": 149
+  },
+  {
+    "id": "AugsburgTV.de@SD",
+    "name": "Augsburg TV HD",
+    "lcn": null,
+    "position": 150
+  },
+  {
+    "id": "AutenticHistory.de@SD",
+    "name": "Autentic History HD",
+    "lcn": null,
+    "position": 151
+  },
+  {
+    "id": "AutenticTravel.de@SD",
+    "name": "Autentic Travel HD",
+    "lcn": null,
+    "position": 152
+  },
+  {
+    "id": "Awkward.de@DACH",
+    "name": "Awkward",
+    "lcn": null,
+    "position": 153
+  },
+  {
+    "id": "BBCTravel.us@Germany",
+    "name": "BBC Travel",
+    "lcn": null,
+    "position": 154
+  },
+  {
+    "id": "Becker.de@DACH",
+    "name": "Becker",
+    "lcn": null,
+    "position": 155
+  },
+  {
+    "id": "BeverlyHills90210.de@DACH",
+    "name": "Beverly Hills 90210",
+    "lcn": null,
+    "position": 156
+  },
+  {
+    "id": "BIGBROTHERCLASSIC.de@DACH",
+    "name": "BIG BROTHER CLASSIC",
+    "lcn": null,
+    "position": 157
+  },
+  {
+    "id": "CCPlutoTV.de@DACH",
+    "name": "CC Pluto TV",
+    "lcn": null,
+    "position": 158
+  },
+  {
+    "id": "ChaosCity.us@Germany",
+    "name": "Chaos City",
+    "lcn": null,
+    "position": 159
+  },
+  {
+    "id": "Cheers.de@DACH",
+    "name": "Cheers",
+    "lcn": null,
+    "position": 160
+  },
+  {
+    "id": "SachsenFernsehenChemnitz.de@SD",
+    "name": "Chemnitz Fernsehen HD",
+    "lcn": null,
+    "position": 161
+  },
+  {
+    "id": "CiraTV.de@SD",
+    "name": "Cira TV HD",
+    "lcn": null,
+    "position": 162
+  },
+  {
+    "id": "ComedyCentralSouthPark.de@DACH",
+    "name": "Comedy Central South Park",
+    "lcn": null,
+    "position": 163
+  },
+  {
+    "id": "DASDING908.de@SD",
+    "name": "DASDING 90.8 HD",
+    "lcn": null,
+    "position": 164
+  },
+  {
+    "id": "DAZNDartsxPlutoTV.de@DACH",
+    "name": "DAZN Darts x Pluto TV",
+    "lcn": null,
+    "position": 165
+  },
+  {
+    "id": "DAZNHandballxPlutoTV.de@DACH",
+    "name": "DAZN Handball x Pluto TV",
+    "lcn": null,
+    "position": 166
+  },
+  {
+    "id": "DAZNHeldinnenxPlutoTV.de@DACH",
+    "name": "DAZN Heldinnen x Pluto TV",
+    "lcn": null,
+    "position": 167
+  },
+  {
+    "id": "DeluxeDance.de@SD",
+    "name": "Deluxe Dance HD",
+    "lcn": null,
+    "position": 168
+  },
+  {
+    "id": "DeluxeLounge.de@SD",
+    "name": "Deluxe Lounge HD",
+    "lcn": null,
+    "position": 169
+  },
+  {
+    "id": "DeluxeRap.de@SD",
+    "name": "Deluxe Rap HD",
+    "lcn": null,
+    "position": 170
+  },
+  {
+    "id": "DMF.de@SD",
+    "name": "DMF HD [Not 24/7]",
+    "lcn": 121,
+    "position": 121
+  },
+  {
+    "id": "DrakeJosh.de@DACH",
+    "name": "Drake & Josh",
+    "lcn": null,
+    "position": 171
+  },
+  {
+    "id": "SachsenFernsehenDresden.de@SD",
+    "name": "Dresden Fernsehen HD [Not 24/7]",
+    "lcn": null,
+    "position": 172
+  },
+  {
+    "id": "DW.de@Russian",
+    "name": "DW Russian HD",
+    "lcn": null,
+    "position": 173
+  },
+  {
+    "id": "EchtJetztTV.de@SD",
+    "name": "EchtJetzt TV HD",
+    "lcn": null,
+    "position": 174
+  },
+  {
+    "id": "emsTVLingen.de@SD",
+    "name": "ems TV Lingen HD",
+    "lcn": null,
+    "position": 175
+  },
+  {
+    "id": "ErzTVStollberg.de@SD",
+    "name": "Erz-TV Stollberg SD",
+    "lcn": null,
+    "position": 176
+  },
+  {
+    "id": "EWTN.de@SD",
+    "name": "EWTN Germany HD",
+    "lcn": null,
+    "position": 177
+  },
+  {
+    "id": "FIFAPlus.uk@German",
+    "name": "FIFA+ German HD",
+    "lcn": null,
+    "position": 178
+  },
+  {
+    "id": "Filstalwelle.de@SD",
+    "name": "Filstalwelle HD",
+    "lcn": null,
+    "position": 179
+  },
+  {
+    "id": "FinestTV.de@SD",
+    "name": "Finest TV (288p) [Not 24/7]",
+    "lcn": null,
+    "position": 180
+  },
+  {
+    "id": "FrankenFernsehen.de@SD",
+    "name": "Franken Fernsehen (Nürnberg) HD [Not 24/7]",
+    "lcn": null,
+    "position": 181
+  },
+  {
+    "id": "Frasier.de@DACH",
+    "name": "Frasier",
+    "lcn": null,
+    "position": 182
+  },
+  {
+    "id": "FrasierBeruhmteGaste.de@DACH",
+    "name": "Frasier: Berühmte Gäste",
+    "lcn": null,
+    "position": 183
+  },
+  {
+    "id": "GermanyShore.de@DACH",
+    "name": "Germany Shore",
+    "lcn": null,
+    "position": 184
+  },
+  {
+    "id": "GrjngoWesternMovies.de@SD",
+    "name": "Grjngo Western Movies HD",
+    "lcn": null,
+    "position": 185
+  },
+  {
+    "id": "HopeChannelGerman.de@SD",
+    "name": "Hope Channel German HD",
+    "lcn": null,
+    "position": 186
+  },
+  {
+    "id": "HorseCountryTV.uk@SD",
+    "name": "Horse & Country TV HD",
+    "lcn": null,
+    "position": 187
+  },
+  {
+    "id": "HSEExtra.de@SD",
+    "name": "HSE24 Extra HD",
+    "lcn": 97,
+    "position": 97
+  },
+  {
+    "id": "HSETrend.de@SD",
+    "name": "HSE24 Trend SD",
+    "lcn": null,
+    "position": 188
+  },
+  {
+    "id": "iCarly.de@DACH",
+    "name": "iCarly",
+    "lcn": null,
+    "position": 189
+  },
+  {
+    "id": "IcePilots.us@Germany",
+    "name": "Ice Pilots",
+    "lcn": null,
+    "position": 190
+  },
+  {
+    "id": "iSTUFF.de@SD",
+    "name": "iSTUFF HD [Not 24/7]",
+    "lcn": null,
+    "position": 191
+  },
+  {
+    "id": "Juwelo.de@SD",
+    "name": "Juwelo HD",
+    "lcn": 99,
+    "position": 99
+  },
+  {
+    "id": "KaufBeiTV.de@SD",
+    "name": "KaufBei TV SD",
+    "lcn": null,
+    "position": 192
+  },
+  {
+    "id": "KulturMD.de@SD",
+    "name": "KulturMD HD",
+    "lcn": null,
+    "position": 193
+  },
+  {
+    "id": "labor14.de@HD",
+    "name": "labor14 HD",
+    "lcn": null,
+    "position": 194
+  },
+  {
+    "id": "Lausitzwelle.de@SD",
+    "name": "Lausitzwelle HD",
+    "lcn": null,
+    "position": 195
+  },
+  {
+    "id": "SachsenFernsehenLeipzig.de@SD",
+    "name": "Leipzig Fernsehen HD",
+    "lcn": null,
+    "position": 196
+  },
+  {
+    "id": "LightChannel.de@SD",
+    "name": "Light Channel SD [Not 24/7]",
+    "lcn": null,
+    "position": 197
+  },
+  {
+    "id": "OstWest.de@SD",
+    "name": "OstWestTV",
+    "lcn": null,
+    "position": 198
+  },
+  {
+    "id": "LoveThePlanet.es@DE",
+    "name": "Love The Planet DE HD",
+    "lcn": null,
+    "position": 199
+  },
+  {
+    "id": "MagentaMusik360.de@SD",
+    "name": "Magenta Musik 360 HD",
+    "lcn": null,
+    "position": 200
+  },
+  {
+    "id": "MCTV.de@HD",
+    "name": "MC TV HD",
+    "lcn": null,
+    "position": 201
+  },
+  {
+    "id": "McLeodsTochter.de@DACH",
+    "name": "McLeods Töchter",
+    "lcn": null,
+    "position": 202
+  },
+  {
+    "id": "MDF1.de@SD",
+    "name": "MDF.1 HD",
+    "lcn": null,
+    "position": 203
+  },
+  {
+    "id": "MissionImpossible.de@DACH",
+    "name": "Mission Impossible",
+    "lcn": null,
+    "position": 204
+  },
+  {
+    "id": "MoreThanSportsTV.de@SD",
+    "name": "More Than Sports TV HD",
+    "lcn": null,
+    "position": 205
+  },
+  {
+    "id": "MotorvisionPlus.de@SD",
+    "name": "Motorvision.tv (French)",
+    "lcn": null,
+    "position": 206
+  },
+  {
+    "id": "Moviedome.us@Germany",
+    "name": "MOVIEDOME HD",
+    "lcn": null,
+    "position": 207
+  },
+  {
+    "id": "MoviepilotTVmitPlutoTV.de@DACH",
+    "name": "Moviepilot TV mit Pluto TV",
+    "lcn": null,
+    "position": 208
+  },
+  {
+    "id": "MTVCatfishTVShow.de@DACH",
+    "name": "MTV Catfish TV Show HD",
+    "lcn": null,
+    "position": 209
+  },
+  {
+    "id": "MTVDating.de@DACH",
+    "name": "MTV Dating HD",
+    "lcn": null,
+    "position": 210
+  },
+  {
+    "id": "MTVPlutoTV.de@DACH",
+    "name": "MTV Pluto TV",
+    "lcn": null,
+    "position": 211
+  },
+  {
+    "id": "MTVReality.de@DACH",
+    "name": "MTV Reality HD",
+    "lcn": null,
+    "position": 212
+  },
+  {
+    "id": "MTVRidiculousness.de@DACH",
+    "name": "MTV Ridiculousness",
+    "lcn": null,
+    "position": 213
+  },
+  {
+    "id": "MTVTeenMom.de@DACH",
+    "name": "MTV Teen Mom HD",
+    "lcn": null,
+    "position": 214
+  },
+  {
+    "id": "MTVTheShores.de@DACH",
+    "name": "MTV The Shores",
+    "lcn": null,
+    "position": 215
+  },
+  {
+    "id": "MunchenTV.de@SD",
+    "name": "München TV HD [Not 24/7]",
+    "lcn": null,
+    "position": 216
+  },
+  {
+    "id": "Nachrichten360.de@HD",
+    "name": "Nachrichten 360 HD",
+    "lcn": null,
+    "position": 217
+  },
+  {
+    "id": "Naruto.us@Germany",
+    "name": "Naruto HD",
+    "lcn": null,
+    "position": 218
+  },
+  {
+    "id": "NashKinomir.de@SD",
+    "name": "Nash Kinomir SD",
+    "lcn": null,
+    "position": 219
+  },
+  {
+    "id": "NickJrClub.de@DACH",
+    "name": "Nick Jr. Club HD",
+    "lcn": null,
+    "position": 220
+  },
+  {
+    "id": "Nickelodeon.de@SD",
+    "name": "Nickelodeon",
+    "lcn": null,
+    "position": 221
+  },
+  {
+    "id": "NickelodeonClassics.de@DACH",
+    "name": "Nickelodeon Classics HD",
+    "lcn": null,
+    "position": 222
+  },
+  {
+    "id": "NickelodeonTeen.de@DACH",
+    "name": "Nickelodeon Teen HD",
+    "lcn": null,
+    "position": 223
+  },
+  {
+    "id": "NickelodeonToons.de@DACH",
+    "name": "Nickelodeon Toons HD",
+    "lcn": null,
+    "position": 224
+  },
+  {
+    "id": "NiederbayernTV.de@SD",
+    "name": "Niederbayern TV HD",
+    "lcn": null,
+    "position": 225
+  },
+  {
+    "id": "NiederbayernTVDeggendorfStraubing.de@SD",
+    "name": "Niederbayern TV Deggendorf & Straubing HD",
+    "lcn": null,
+    "position": 226
+  },
+  {
+    "id": "NiederbayernTVLandshut.de@SD",
+    "name": "Niederbayern TV Landshut HD",
+    "lcn": null,
+    "position": 227
+  },
+  {
+    "id": "NiederbayernTVPassau.de@SD",
+    "name": "Niederbayern TV Passau HD",
+    "lcn": null,
+    "position": 228
+  },
+  {
+    "id": "noa4Hamburg.de@SD",
+    "name": "Noa 4 Hamburg HD",
+    "lcn": null,
+    "position": 229
+  },
+  {
+    "id": "noa4Norderstedt.de@SD",
+    "name": "Noa 4 Norderstedt HD",
+    "lcn": null,
+    "position": 230
+  },
+  {
+    "id": "NRWision.de@SD",
+    "name": "NRWision HD",
+    "lcn": 61,
+    "position": 61
+  },
+  {
+    "id": "OberpfalzTV.de@SD",
+    "name": "Oberpfalz TV HD",
+    "lcn": null,
+    "position": 231
+  },
+  {
+    "id": "OKDessau.de@SD",
+    "name": "OK Dessau HD [Not 24/7]",
+    "lcn": null,
+    "position": 232
+  },
+  {
+    "id": "OKFlensburg.de@SD",
+    "name": "OK Flensburg SD",
+    "lcn": null,
+    "position": 233
+  },
+  {
+    "id": "OKKaiserslautern.de@SD",
+    "name": "OK Kaiserslautern HD",
+    "lcn": null,
+    "position": 234
+  },
+  {
+    "id": "OKKassel.de@SD",
+    "name": "OK Kassel HD",
+    "lcn": null,
+    "position": 235
+  },
+  {
+    "id": "OKKiel.de@SD",
+    "name": "OK Kiel SD",
+    "lcn": null,
+    "position": 236
+  },
+  {
+    "id": "OKMagdeburg.de@SD",
+    "name": "OK Magdeburg HD",
+    "lcn": null,
+    "position": 237
+  },
+  {
+    "id": "OKMerseburgQuerfurt.de@SD",
+    "name": "OK Merseburg-Querfurt HD [Not 24/7]",
+    "lcn": null,
+    "position": 238
+  },
+  {
+    "id": "OKRheinMain.de@SD",
+    "name": "OK Rhein-Main SD",
+    "lcn": null,
+    "position": 239
+  },
+  {
+    "id": "OKSalzwedel.de@SD",
+    "name": "OK Salzwedel HD [Not 24/7]",
+    "lcn": null,
+    "position": 240
+  },
+  {
+    "id": "OKStendal.de@SD",
+    "name": "OK Stendal HD",
+    "lcn": null,
+    "position": 241
+  },
+  {
+    "id": "OKTrier.de@SD",
+    "name": "OK Trier HD",
+    "lcn": null,
+    "position": 242
+  },
+  {
+    "id": "OKWeinstrasseNeustadt.de@SD",
+    "name": "OK Weinstraße (Neustadt) (432p)",
+    "lcn": null,
+    "position": 243
+  },
+  {
+    "id": "OKWernigerode.de@SD",
+    "name": "OK Wernigerode HD",
+    "lcn": null,
+    "position": 244
+  },
+  {
+    "id": "OKTVLudwigshafen.de@SD",
+    "name": "OK-TV Ludwigshafen HD",
+    "lcn": null,
+    "position": 245
+  },
+  {
+    "id": "OK4.de@SD",
+    "name": "OK4 HD",
+    "lcn": null,
+    "position": 246
+  },
+  {
+    "id": "OK54.de@SD",
+    "name": "OK54 HD",
+    "lcn": null,
+    "position": 247
+  },
+  {
+    "id": "Parlamentsfernsehen1.de@SD",
+    "name": "Parlamentsfernsehen 1 HD [Not 24/7]",
+    "lcn": null,
+    "position": 248
+  },
+  {
+    "id": "Parlamentsfernsehen2.de@SD",
+    "name": "Parlamentsfernsehen 2 HD [Not 24/7]",
+    "lcn": null,
+    "position": 249
+  },
+  {
+    "id": "Parlamentsfernsehen3.de@SD",
+    "name": "Parlamentsfernsehen 3 HD [Not 24/7]",
+    "lcn": null,
+    "position": 250
+  },
+  {
+    "id": "Parlamentsfernsehen4.de@SD",
+    "name": "Parlamentsfernsehen 4 HD [Not 24/7]",
+    "lcn": null,
+    "position": 251
+  },
+  {
+    "id": "PerryMason.de@DACH",
+    "name": "Perry Mason",
+    "lcn": null,
+    "position": 252
+  },
+  {
+    "id": "PlutoTVAction.de@DACH",
+    "name": "Pluto TV Action",
+    "lcn": null,
+    "position": 253
+  },
+  {
+    "id": "PlutoTVAdultAnimation.de@DACH",
+    "name": "Pluto TV Adult Animation",
+    "lcn": null,
+    "position": 254
+  },
+  {
+    "id": "PlutoTVAnimals.de@DACH",
+    "name": "Pluto TV Animals",
+    "lcn": null,
+    "position": 255
+  },
+  {
+    "id": "PlutoTVAnime.de@DACH",
+    "name": "Pluto TV Anime",
+    "lcn": null,
+    "position": 256
+  },
+  {
+    "id": "PlutoTVBritischeSerien.de@DACH",
+    "name": "Pluto TV Britische Serien",
+    "lcn": null,
+    "position": 257
+  },
+  {
+    "id": "PlutoTVBudTerence.de@DACH",
+    "name": "Pluto TV Bud & Terence",
+    "lcn": null,
+    "position": 258
+  },
+  {
+    "id": "PlutoTVCamp.de@DACH",
+    "name": "Pluto TV Camp",
+    "lcn": null,
+    "position": 259
+  },
+  {
+    "id": "PlutoTVComedyTherapie.de@DACH",
+    "name": "Pluto TV Comedy Therapie",
+    "lcn": null,
+    "position": 260
+  },
+  {
+    "id": "PlutoTVCrime.de@DACH",
+    "name": "Pluto TV Crime",
+    "lcn": null,
+    "position": 261
+  },
+  {
+    "id": "PlutoTVDeutscheComedy.de@DACH",
+    "name": "Pluto TV Deutsche Comedy",
+    "lcn": null,
+    "position": 262
+  },
+  {
+    "id": "PlutoTVExplore.de@DACH",
+    "name": "Pluto TV Explore",
+    "lcn": null,
+    "position": 263
+  },
+  {
+    "id": "PlutoTVFerneGalaxien.de@DACH",
+    "name": "Pluto TV Ferne Galaxien",
+    "lcn": null,
+    "position": 264
+  },
+  {
+    "id": "PlutoTVFood.de@DACH",
+    "name": "Pluto TV Food",
+    "lcn": null,
+    "position": 265
+  },
+  {
+    "id": "PlutoTVFranBesteMamaMomente.de@DACH",
+    "name": "Pluto TV Fran: Beste Mama-Momente",
+    "lcn": null,
+    "position": 266
+  },
+  {
+    "id": "PlutoTVHaialarm.de@DACH",
+    "name": "Pluto TV Haialarm",
+    "lcn": null,
+    "position": 267
+  },
+  {
+    "id": "PlutoTVHistorischeSerien.de@DACH",
+    "name": "Pluto TV Historische Serien",
+    "lcn": null,
+    "position": 268
+  },
+  {
+    "id": "PlutoTVHistory.de@DACH",
+    "name": "Pluto TV History",
+    "lcn": null,
+    "position": 269
+  },
+  {
+    "id": "PlutoTVHorror.de@DACH",
+    "name": "Pluto TV Horror",
+    "lcn": null,
+    "position": 270
+  },
+  {
+    "id": "PlutoTVHorrorSerien.de@DACH",
+    "name": "Pluto TV Horror-Serien",
+    "lcn": null,
+    "position": 271
+  },
+  {
+    "id": "PlutoTVKultComedies.de@DACH",
+    "name": "Pluto TV Kult Comedies",
+    "lcn": null,
+    "position": 272
+  },
+  {
+    "id": "PlutoTVKultfilme.de@DACH",
+    "name": "Pluto TV Kultfilme",
+    "lcn": null,
+    "position": 273
+  },
+  {
+    "id": "PlutoTVLaughsinSpanish.de@DACH",
+    "name": "Pluto TV Laughs in Spanish",
+    "lcn": null,
+    "position": 274
+  },
+  {
+    "id": "PlutoTVMovies.de@DACH",
+    "name": "Pluto TV Movies",
+    "lcn": null,
+    "position": 275
+  },
+  {
+    "id": "PlutoTVMystery.de@DACH",
+    "name": "Pluto TV Mystery",
+    "lcn": null,
+    "position": 276
+  },
+  {
+    "id": "PlutoTVNature.de@DACH",
+    "name": "Pluto TV Nature",
+    "lcn": null,
+    "position": 277
+  },
+  {
+    "id": "PlutoTVNordicCrime.de@DACH",
+    "name": "Pluto TV Nordic Crime",
+    "lcn": null,
+    "position": 278
+  },
+  {
+    "id": "PlutoTVParanormal.de@DACH",
+    "name": "Pluto TV Paranormal",
+    "lcn": null,
+    "position": 279
+  },
+  {
+    "id": "PlutoTVPolizeiserien.de@DACH",
+    "name": "Pluto TV Polizeiserien",
+    "lcn": null,
+    "position": 280
+  },
+  {
+    "id": "PlutoTVReality.de@DACH",
+    "name": "Pluto TV Pride",
+    "lcn": null,
+    "position": 281
+  },
+  {
+    "id": "PlutoTVReportagen.de@DACH",
+    "name": "Pluto TV Reportagen",
+    "lcn": null,
+    "position": 282
+  },
+  {
+    "id": "PlutoTVRomance.de@DACH",
+    "name": "Pluto TV Romance",
+    "lcn": null,
+    "position": 283
+  },
+  {
+    "id": "PlutoTVSciFi.de@DACH",
+    "name": "Pluto TV Sci-Fi",
+    "lcn": null,
+    "position": 284
+  },
+  {
+    "id": "PlutoTVScience.de@DACH",
+    "name": "Pluto TV Science",
+    "lcn": null,
+    "position": 285
+  },
+  {
+    "id": "PlutoTVSerie.de@DACH",
+    "name": "Pluto TV Serie",
+    "lcn": null,
+    "position": 286
+  },
+  {
+    "id": "PlutoTVSitcoms.de@DACH",
+    "name": "Pluto TV Sitcoms",
+    "lcn": null,
+    "position": 287
+  },
+  {
+    "id": "PlutoTVSnooker900.de@DACH",
+    "name": "Pluto TV Snooker 900 HD",
+    "lcn": null,
+    "position": 288
+  },
+  {
+    "id": "PlutoTVSpace.de@DACH",
+    "name": "Pluto TV Space",
+    "lcn": null,
+    "position": 289
+  },
+  {
+    "id": "PlutoTVStarTrek.de@DACH",
+    "name": "Pluto TV Star Trek",
+    "lcn": null,
+    "position": 290
+  },
+  {
+    "id": "PlutoTVStarTrekAnimation.de@DACH",
+    "name": "Pluto TV Star Trek: Animation",
+    "lcn": null,
+    "position": 291
+  },
+  {
+    "id": "PlutoTVTrueCrime.de@DACH",
+    "name": "Pluto TV True Crime",
+    "lcn": null,
+    "position": 292
+  },
+  {
+    "id": "PlutoTVWeihnachtenimSommer.de@DACH",
+    "name": "Pluto TV Weihnachten im Sommer",
+    "lcn": null,
+    "position": 293
+  },
+  {
+    "id": "PlutoTVWestern.de@DACH",
+    "name": "Pluto TV Western",
+    "lcn": null,
+    "position": 294
+  },
+  {
+    "id": "PlutoTVWesternSerien.de@DACH",
+    "name": "Pluto TV Western Serien",
+    "lcn": null,
+    "position": 295
+  },
+  {
+    "id": "PlutoTVWorstofBundy.de@DACH",
+    "name": "Pluto TV Worst of Bundy",
+    "lcn": null,
+    "position": 296
+  },
+  {
+    "id": "PUNKTumFernsehen.de@SD",
+    "name": "PUNKTum Fernsehen HD [Not 24/7]",
+    "lcn": null,
+    "position": 297
+  },
+  {
+    "id": "QVCZwei.de@SD",
+    "name": "QVC 2 Germany (540p)",
+    "lcn": 101,
+    "position": 101
+  },
+  {
+    "id": "QVC.de@SD",
+    "name": "QVC Germany HD",
+    "lcn": 100,
+    "position": 100
+  },
+  {
+    "id": "QVCStyle.de@SD",
+    "name": "QVC Style Germany (540p)",
+    "lcn": 102,
+    "position": 102
+  },
+  {
+    "id": "Radio21TV.de@SD",
+    "name": "Radio 21 TV HD",
+    "lcn": null,
+    "position": 298
+  },
+  {
+    "id": "RadioBremenFernsehen.de@SD",
+    "name": "Radio Bremen Fernsehen HD",
+    "lcn": 83,
+    "position": 83
+  },
+  {
+    "id": "RadioWeserTVBremen.de@SD",
+    "name": "Radio Weser TV Bremen SD",
+    "lcn": null,
+    "position": 299
+  },
+  {
+    "id": "RakutenTVActionMovies.es@Germany",
+    "name": "Rakuten TV Action Movies Germany HD",
+    "lcn": null,
+    "position": 300
+  },
+  {
+    "id": "RakutenTVComedyMovies.es@Germany",
+    "name": "Rakuten TV Comedy Movies Germany HD",
+    "lcn": null,
+    "position": 301
+  },
+  {
+    "id": "RakutenTVDramaMovies.es@Germany",
+    "name": "Rakuten TV Drama Movies Germany HD",
+    "lcn": null,
+    "position": 302
+  },
+  {
+    "id": "RakutenTVFamilyMovies.es@Germany",
+    "name": "Rakuten TV Family Movies Germany HD",
+    "lcn": null,
+    "position": 303
+  },
+  {
+    "id": "RakutenTVTopMovies.es@Germany",
+    "name": "Rakuten TV Top Movies Germany HD",
+    "lcn": null,
+    "position": 304
+  },
+  {
+    "id": "RAN1.de@SD",
+    "name": "RAN1 HD",
+    "lcn": null,
+    "position": 305
+  },
+  {
+    "id": "rbbFernsehen.de@SD",
+    "name": "rbb Fernsehen",
+    "lcn": null,
+    "position": 306
+  },
+  {
+    "id": "RBW.de@SD",
+    "name": "RBW HD",
+    "lcn": null,
+    "position": 307
+  },
+  {
+    "id": "RedBullTV.at@DE",
+    "name": "Red Bull TV DE HD",
+    "lcn": null,
+    "position": 308
+  },
+  {
+    "id": "RegioTVBodensee.de@SD",
+    "name": "Regio TV Bodensee HD",
+    "lcn": null,
+    "position": 309
+  },
+  {
+    "id": "RegioTVStuttgart.de@SD",
+    "name": "Regio TV Stuttgart HD",
+    "lcn": null,
+    "position": 310
+  },
+  {
+    "id": "RFH.de@SD",
+    "name": "RFH HD",
+    "lcn": null,
+    "position": 311
+  },
+  {
+    "id": "RockAntenne.de@SD",
+    "name": "Rock Antenne [Not 24/7]",
+    "lcn": null,
+    "position": 312
+  },
+  {
+    "id": "RocklandTV.de@SD",
+    "name": "Rockland TV SD [Not 24/7]",
+    "lcn": null,
+    "position": 313
+  },
+  {
+    "id": "RTDE.de@SD",
+    "name": "RT DE HD [Not 24/7]",
+    "lcn": null,
+    "position": 314
+  },
+  {
+    "id": "SaarlandFernsehen1.de@SD",
+    "name": "Saarland Fernsehen 1 HD",
+    "lcn": null,
+    "position": 315
+  },
+  {
+    "id": "SaarlandFernsehen2.de@SD",
+    "name": "Saarland Fernsehen 2 HD [Not 24/7]",
+    "lcn": null,
+    "position": 316
+  },
+  {
+    "id": "SabrinaTotalverhext.de@DACH",
+    "name": "Sabrina Total verhext!",
+    "lcn": null,
+    "position": 317
+  },
+  {
+    "id": "SachsenEins.de@SD",
+    "name": "Sachsen Eins HD",
+    "lcn": null,
+    "position": 318
+  },
+  {
+    "id": "Seenluft24.de@SD",
+    "name": "Seenluft24 HD",
+    "lcn": null,
+    "position": 319
+  },
+  {
+    "id": "SonusFM.de@SD",
+    "name": "Sonus FM TV HD [Not 24/7]",
+    "lcn": null,
+    "position": 320
+  },
+  {
+    "id": "SouthParkArmageddon.de@DACH",
+    "name": "South Park Armageddon",
+    "lcn": null,
+    "position": 321
+  },
+  {
+    "id": "SouthParkRocks.de@DACH",
+    "name": "South Park Rocks!",
+    "lcn": null,
+    "position": 322
+  },
+  {
+    "id": "SouthParkButtersCollection.de@DACH",
+    "name": "South Park: Butters Collection",
+    "lcn": null,
+    "position": 323
+  },
+  {
+    "id": "SouthParkCartmanCollection.de@DACH",
+    "name": "South Park: Cartman Collection",
+    "lcn": null,
+    "position": 324
+  },
+  {
+    "id": "SouthParkKennyCollection.de@DACH",
+    "name": "South Park: Kenny Collection",
+    "lcn": null,
+    "position": 325
+  },
+  {
+    "id": "SouthParkKyleCollection.de@DACH",
+    "name": "South Park: Kyle Collection",
+    "lcn": null,
+    "position": 326
+  },
+  {
+    "id": "SouthParkOriginalVersion.de@DACH",
+    "name": "South Park: Original Version",
+    "lcn": null,
+    "position": 327
+  },
+  {
+    "id": "SouthParkStanCollection.de@DACH",
+    "name": "South Park: Stan Collection",
+    "lcn": null,
+    "position": 328
+  },
+  {
+    "id": "SouthParkStarsSternchen.de@DACH",
+    "name": "South Park: Stars & Sternchen",
+    "lcn": null,
+    "position": 329
+  },
+  {
+    "id": "CuriosityChannel.de@SD",
+    "name": "SPIEGEL TV HD",
+    "lcn": null,
+    "position": 330
+  },
+  {
+    "id": "SpongeBobSchwammkopf.de@DACH",
+    "name": "SpongeBob Schwammkopf HD",
+    "lcn": null,
+    "position": 331
+  },
+  {
+    "id": "StarTrekTheNextGeneration.de@DACH",
+    "name": "Star Trek: The Next Generation",
+    "lcn": null,
+    "position": 332
+  },
+  {
+    "id": "StarTrekTheOriginalSeries.de@DACH",
+    "name": "Star Trek: The Original Series",
+    "lcn": null,
+    "position": 333
+  },
+  {
+    "id": "StimmungsgartenTV.at@SD",
+    "name": "Stimmungsgarten TV",
+    "lcn": null,
+    "position": 334
+  },
+  {
+    "id": "Strongman.us@Germany",
+    "name": "Strongman Champions League HD",
+    "lcn": null,
+    "position": 335
+  },
+  {
+    "id": "Studio47.de@SD",
+    "name": "Studio 47 SD",
+    "lcn": null,
+    "position": 336
+  },
+  {
+    "id": "SWR3VisualRadio.de@SD",
+    "name": "SWR 3 Visual Radio HD",
+    "lcn": null,
+    "position": 337
+  },
+  {
+    "id": "SWRFernsehenBadenWurttemberg.de@SD",
+    "name": "SWR Fernsehen Baden-Württemberg HD",
+    "lcn": null,
+    "position": 338
+  },
+  {
+    "id": "SWRFernsehenRheinlandPfalz.de@SD",
+    "name": "SWR Fernsehen Rheinland-Pfalz HD",
+    "lcn": 45,
+    "position": 45
+  },
+  {
+    "id": "SYFY.de@HD",
+    "name": "SYFY HD",
+    "lcn": null,
+    "position": 339
+  },
+  {
+    "id": "TakeshisCastle.de@DACH",
+    "name": "Takeshi's Castle",
+    "lcn": null,
+    "position": 340
+  },
+  {
+    "id": "teltOwkanal.de@SD",
+    "name": "teltOwkanal HD",
+    "lcn": null,
+    "position": 341
+  },
+  {
+    "id": "TerraMaterWILD.de@German",
+    "name": "Terra Mater WILD HD",
+    "lcn": null,
+    "position": 342
+  },
+  {
+    "id": "TheGrahamNortonShow.uk@SD",
+    "name": "The Graham Norton Show HD",
+    "lcn": null,
+    "position": 343
+  },
+  {
+    "id": "TheLWordWennFrauenlieben.de@DACH",
+    "name": "The L Word – Wenn Frauen lieben",
+    "lcn": null,
+    "position": 344
+  },
+  {
+    "id": "TotallyTurtles.de@DACH",
+    "name": "Totally Turtles HD",
+    "lcn": null,
+    "position": 345
+  },
+  {
+    "id": "TVIngolstadt.de@SD",
+    "name": "TV Ingolstadt HD",
+    "lcn": null,
+    "position": 346
+  },
+  {
+    "id": "TVMainfranken.de@SD",
+    "name": "TV Mainfranken HD [Not 24/7]",
+    "lcn": null,
+    "position": 347
+  },
+  {
+    "id": "TVOberfranken.de@SD",
+    "name": "TV Oberfranken (TVO) HD [Not 24/7]",
+    "lcn": null,
+    "position": 348
+  },
+  {
+    "id": "TV38SudostNiedersachen.de@SD",
+    "name": "TV38 Südost-Niedersachen HD",
+    "lcn": null,
+    "position": 349
+  },
+  {
+    "id": "TVA.de@SD",
+    "name": "TVA HD [Not 24/7]",
+    "lcn": null,
+    "position": 350
+  },
+  {
+    "id": "Unserding.de@SD",
+    "name": "Unserding HD",
+    "lcn": null,
+    "position": 351
+  },
+  {
+    "id": "VolksmusikTV.de@SD",
+    "name": "Volksmusik TV HD",
+    "lcn": null,
+    "position": 352
+  },
+  {
+    "id": "WDR1Live.de@SD",
+    "name": "WDR 1 Live HD",
+    "lcn": null,
+    "position": 353
+  },
+  {
+    "id": "WeltderWunderTV.de@SD",
+    "name": "Welt der Wunder TV SD",
+    "lcn": null,
+    "position": 354
+  },
+  {
+    "id": "WorldofFreesports.de@SD",
+    "name": "World of Freesports HD",
+    "lcn": null,
+    "position": 355
+  },
+  {
+    "id": "WorldPokerTour.us@Germany",
+    "name": "World Poker Tour",
+    "lcn": null,
+    "position": 356
+  },
+  {
+    "id": "XITEHits.nl@Germany",
+    "name": "XITE Hits Germany HD",
+    "lcn": null,
+    "position": 357
+  },
+  {
+    "id": "ZeeOne.uk@German",
+    "name": "Zee One German HD",
+    "lcn": null,
+    "position": 358
+  }
+]
