@@ -1,0 +1,194 @@
+1	Das Erste	HD	DVB-C	ARD Digital
+2	ZDF	HD	DVB-C	ZDFvision
+3	RTL Nordrhein-Westfalen	SD	DVB-C	Kabelanschluss
+4	ProSieben	SD	DVB-C	Kabelanschluss
+5	VOX	SD	DVB-C	Kabelanschluss
+6	SAT.1 Nordrhein-Westfalen	SD	DVB-C	Kabelanschluss
+7	Kabel Eins	SD	DVB-C	Kabelanschluss
+8	RTLZWEI	SD	DVB-C	Kabelanschluss
+9	Comedy Central	SD	DVB-C	Kabelanschluss
+10	ZDFinfo (Fortführung als info - Der Dokumentationskanal von ARD und ZDF ab 01.01.2027)	HD	DVB-C	ZDFvision
+11	ProSieben MAXX	SD	DVB-C	Kabelanschluss
+12	zdf_neo (Fortführung als neo von ARD und ZDF ab 01.01.2027)	HD	DVB-C	ZDFvision
+13	ntv	SD	DVB-C	Kabelanschluss
+14	NITRO	SD	DVB-C	Kabelanschluss
+15	DMAX	SD	DVB-C	Kabelanschluss
+16	Kabel Eins Doku	SD	DVB-C	Kabelanschluss
+17	SUPER RTL	SD	DVB-C	Kabelanschluss
+18	RTLup	SD	DVB-C	Kabelanschluss
+19	TLC	SD	DVB-C	Kabelanschluss
+20	SAT.1 Gold	SD	DVB-C	Kabelanschluss
+21	MDR Fernsehen Sachsen	HD	DVB-C	ARD Digital
+22	WELT	SD	DVB-C	Kabelanschluss
+23	Disney Channel (ab Ende 2026 Neuausrichtung als Disney TV)	SD	DVB-C	Kabelanschluss
+24	WDR Fernsehen Köln	HD	DVB-C	ARD Digital
+25	sixx	SD	DVB-C	Kabelanschluss
+26	TELE 5	SD	DVB-C	Kabelanschluss
+27	arte	HD	DVB-C	ARD Digital
+28	NDR Fernsehen Niedersachsen	HD	DVB-C	ARD Digital
+29	phoenix	HD	DVB-C	ARD Digital
+30	3sat	HD	DVB-C	ZDFvision
+31	Nickelodeon / Comedy Central +1	SD	DVB-C	Kabelanschluss
+32	VOXup	SD	DVB-C	Kabelanschluss
+33	BR Fernsehen Süd	HD	DVB-C	ARD Digital
+34	SPORT1	SD	DVB-C	Kabelanschluss
+35	rbb Fernsehen Berlin	HD	DVB-C	ARD Digital
+36	N24 Doku	SD	DVB-C	Kabelanschluss
+37	KiKA	HD	DVB-C	ZDFvision
+38	tagesschau24 (Einstellung zum 31.12.2026)	HD	DVB-C	ARD Digital
+39	hr-fernsehen	HD	DVB-C	ARD Digital
+40	ONE (Einstellung zum 31.12.2026)	HD	DVB-C	ARD Digital
+41	DELUXE MUSIC	SD	DVB-C	Kabelanschluss
+42	TOGGO plus	SD	DVB-C	Kabelanschluss
+43	Eurosport 1	SD	DVB-C	Kabelanschluss
+44	MTV	SD	DVB-C	Kabelanschluss
+45	SWR Fernsehen Rheinland-Pfalz	HD	DVB-C	ARD Digital
+46	HGTV	SD	DVB-C	Kabelanschluss
+47	ARD alpha (Einstellung zum 31.12.2026)	HD	DVB-C	ARD Digital
+48	DF1	HD	DVB-C	Kabelanschluss
+49	SR Fernsehen	HD	DVB-C	ARD Digital
+60	NPO 2	SD	DVB-C	Kabelanschluss
+61	NRWision	HD	DVB-C	Regionalsender Nordrhein-Westfalen
+83	Radio Bremen Fernsehen	HD	DVB-C	ARD Digital
+88	WDR Fernsehen Duisburg	HD	DVB-C	ARD Digital
+89	WDR Fernsehen Düsseldorf	HD	DVB-C	ARD Digital
+93	WDR Fernsehen Wuppertal	HD	DVB-C	ARD Digital
+94	123.live	HD	DVB-C	Kabelanschluss
+95	Channel 21 (Infokarte, Sendebetrieb eingestellt)	HD	DVB-C	Kabelanschluss
+96	HSE	HD	DVB-C	Kabelanschluss
+97	HSE Extra	HD	DVB-C	Kabelanschluss
+98	HSE Trend	SD	DVB-C	Kabelanschluss
+99	Juwelo TV	SD	DVB-C	Kabelanschluss
+100	QVC	HD	DVB-C	Kabelanschluss
+101	QVC ZWEI	HD	DVB-C	Kabelanschluss
+102	QVC STYLE	HD	DVB-C	Kabelanschluss
+103	sonnenklar.TV	HD	DVB-C	Kabelanschluss
+104	Handystar	SD	DVB-C	Kabelanschluss
+105	Shop LC	HD	DVB-C	Kabelanschluss
+107	Spirit TV	SD	DVB-C	Kabelanschluss
+108	Al Jazeera (englisch)	SD	DVB-C	Kabelanschluss
+109	BBC News	SD	DVB-C	Kabelanschluss
+110	Bibel TV	HD	DVB-C	Kabelanschluss
+111	Bloomberg TV Europe	SD	DVB-C	Kabelanschluss
+112	CGTN	SD	DVB-C	Kabelanschluss
+113	CNBC Europe	SD	DVB-C	Kabelanschluss
+114	CNN International Europe	SD	DVB-C	Kabelanschluss
+115	Die Neue Zeit TV / Sophia TV	SD	DVB-C	Kabelanschluss
+116	DOKUSAT	SD	DVB-C	Kabelanschluss
+117	euronews (deutsch)	SD	DVB-C	Kabelanschluss
+118	Hope TV	SD	DVB-C	Kabelanschluss
+119	K-TV	SD	DVB-C	Kabelanschluss
+120	SBN	SD	DVB-C	Kabelanschluss
+121	DMF	SD	DVB-C	Kabelanschluss
+122	SCHLAGER DELUXE (Infokarte)	SD	DVB-C	Kabelanschluss
+123	RiC	SD	DVB-C	Kabelanschluss
+124	TRT Türk	SD	DVB-C	Kabelanschluss
+170	Kanal Avrupa	SD	DVB-C	Vodafone Basic TV
+171	Halk TV	SD	DVB-C	Vodafone Basic TV
+172	1+1 International	SD	DVB-C	Vodafone Basic TV
+173	BVN (Einstellung des Sendebetriebs voraussichtlich zum 31.12.2026)	SD	DVB-C	Vodafone Basic TV
+174	France 24 (französisch)	SD	DVB-C	Vodafone Basic TV
+175	France 24 (englisch)	SD	DVB-C	Vodafone Basic TV
+176	Al Jazeera Balkans (Infokarte)	SD	DVB-C	Vodafone Basic TV
+177	Al Jazeera (arabisch)	SD	DVB-C	Vodafone Basic TV
+178	Arirang TV	SD	DVB-C	Vodafone Basic TV
+179	Fashion TV	SD	DVB-C	Vodafone Basic TV
+180	Duna TV	SD	DVB-C	Vodafone Basic TV
+181	Tunisie 1	SD	DVB-C	Vodafone Basic TV
+182	GINX TV	SD	DVB-C	Vodafone Basic TV
+183	PCNE	SD	DVB-C	Vodafone Basic TV
+184	NTD TV (Infokarte)	SD	DVB-C	Vodafone Basic TV
+185	Pro TV International	SD	DVB-C	Vodafone Basic TV
+186	TVR International	SD	DVB-C	Vodafone Basic TV
+187	France 3	SD	DVB-C	Vodafone Basic TV
+202	ZDF (Infokarte, nur noch in HD verfügbar)	SD	DVB-C	ZDFvision
+203	RTL Nordrhein-Westfalen	HD	DVB-C	Vodafone Basic TV
+204	ProSieben	HD	DVB-C	Vodafone Basic TV
+205	VOX	HD	DVB-C	Vodafone Basic TV
+206	SAT.1 Nordrhein-Westfalen	HD	DVB-C	Vodafone Basic TV
+207	Kabel Eins	HD	DVB-C	Vodafone Basic TV
+208	RTLZWEI	HD	DVB-C	Vodafone Basic TV
+209	Comedy Central	HD	DVB-C	Vodafone Basic TV
+210	ZDFinfo (Infokarte, nur noch in HD verfügbar)	SD	DVB-C	ZDFvision
+211	ProSieben MAXX	HD	DVB-C	Vodafone Basic TV
+212	zdf_neo (Infokarte, nur noch in HD verfügbar)	SD	DVB-C	ZDFvision
+213	ntv	HD	DVB-C	Vodafone Basic TV
+214	NITRO	HD	DVB-C	Vodafone Basic TV
+215	DMAX	HD	DVB-C	Vodafone Basic TV
+216	Kabel Eins Doku	HD	DVB-C	Vodafone Basic TV
+217	SUPER RTL	HD	DVB-C	Vodafone Basic TV
+218	RTLup	HD	DVB-C	Vodafone Basic TV
+219	TLC	HD	DVB-C	Vodafone Basic TV
+220	SAT.1 Gold	HD	DVB-C	Vodafone Basic TV
+222	WELT	HD	DVB-C	Vodafone Basic TV
+223	Disney Channel (ab Ende 2026 Neuausrichtung als Disney TV)	HD	DVB-C	Vodafone Basic TV
+225	sixx	HD	DVB-C	Vodafone Basic TV
+226	TELE 5	HD	DVB-C	Vodafone Basic TV
+230	3sat (Infokarte, nur noch in HD verfügbar)	SD	DVB-C	ZDFvision
+231	Nickelodeon / Comedy Central +1	HD	DVB-C	Vodafone Basic TV
+234	SPORT1	HD	DVB-C	Vodafone Basic TV
+237	KiKA (Infokarte, nur noch in HD verfügbar)	SD	DVB-C	ZDFvision
+241	DELUXE MUSIC	HD	DVB-C	Kabelanschluss
+243	Eurosport 1	HD	DVB-C	Vodafone Basic TV
+244	MTV	HD	DVB-C	Vodafone Basic TV
+246	HGTV	HD	DVB-C	Vodafone Basic TV
+292	123.live (Ab 01.08.2026 nur noch in HD bei Vodafone)	SD	DVB-C	Kabelanschluss
+293	Channel 21 (Infokarte)	SD	DVB-C	Kabelanschluss
+294	HSE	SD	DVB-C	Kabelanschluss
+295	HSE Extra	SD	DVB-C	Kabelanschluss
+298	QVC	SD	DVB-C	Kabelanschluss
+301	sonnenklar.TV	SD	DVB-C	Kabelanschluss
+303	Shop LC	SD	DVB-C	Kabelanschluss
+308	Bibel TV	SD	DVB-C	Kabelanschluss
+312	CNN International Europe	HD	DVB-C	Vodafone Basic TV
+400	Sky One	HD	DVB-C	Vodafone Premium
+401	Warner TV Serie	HD	DVB-C	Vodafone Premium / TV International Englisch IP
+402	13th Street	HD	DVB-C	Vodafone Premium
+403	AXN Black	HD	DVB-C	Vodafone Premium / TV International Englisch IP
+404	Romance TV	HD	DVB-C	Vodafone Premium
+405	RTL Crime	HD	DVB-C	Vodafone Premium
+406	Sky Sci-Fi	HD	DVB-C	Vodafone Premium
+407	Warner TV Comedy	HD	DVB-C	Vodafone Premium
+408	Universal TV	HD	DVB-C	Vodafone Premium
+409	KinoweltTV	HD	DVB-C	Vodafone Premium
+410	Warner TV Film	HD	DVB-C	Vodafone Premium / TV International Englisch IP
+411	Heimatkanal (Infokarte, nur noch in HD verfügbar)	SD	DVB-C	Vodafone Premium
+412	Heimatkanal	HD	DVB-C	Vodafone Premium
+413	GEO Television	HD	DVB-C	Vodafone Premium
+414	The HISTORY Channel	HD	DVB-C	Vodafone Premium
+415	National Geographic	HD	DVB-C	Vodafone Premium / TV International Englisch IP
+416	Nat Geo Wild	HD	DVB-C	Vodafone Premium
+417	DFB.TV (bis Juli 2026 auch für Kunden von Vodafone Basic TV freigeschaltet)	HD	DVB-C	Vodafone Premium
+418	ProSieben FUN	HD	DVB-C	Vodafone Premium
+419	Sportdigital1+	HD	DVB-C	Vodafone Premium / TV International Englisch IP
+420	Cartoonito	SD	DVB-C	Vodafone Premium / TV International Englisch IP
+421	Cartoon Network	SD	DVB-C	Vodafone Premium / TV International Englisch IP
+422	Kabel Eins CLASSICS	HD	DVB-C	Vodafone Premium Plus
+423	SAT.1 emotions	HD	DVB-C	Vodafone Premium
+424	Silverline	HD	DVB-C	Vodafone Premium Plus
+425	AXN White	HD	DVB-C	Vodafone Premium Plus
+428	Crime + Investigation	HD	DVB-C	Vodafone Premium Plus
+429	Discovery Channel	HD	DVB-C	Vodafone Premium Plus
+430	RTL Living	HD	DVB-C	Vodafone Premium Plus
+431	DAZN 2 (bis 31.07.2026)	HD	DVB-C	DAZN UNLIMITED
+432	DAZN 1 (bis 31.07.2026)	HD	DVB-C	DAZN UNLIMITED
+433	Eurosport 2	HD	DVB-C	Vodafone Premium Plus
+434	eSportsONE	HD	DVB-C	Vodafone Premium Plus
+435	SPORTDIGITAL FUSSBALL	HD	DVB-C	Vodafone Premium Plus
+438	Nick Jr.	HD	DVB-C	Vodafone Premium Plus
+439	Fix & Foxi	SD	DVB-C	Vodafone Premium Plus
+445	LUST PUR	HD	DVB-C	Vodafone Premium Plus
+551	Sky Sport Top Event	HD	DVB-C	Sky Sport / Sky Fußball Bundesliga
+559	Sky Sport UHD (nur bei Bedarf auf Sendung)	UHD	DVB-C	Sky Sport + UHD
+560	Sky Sport Bundesliga UHD (nur bei Bedarf auf Sendung)	UHD	DVB-C	Sky Fußball Bundesliga + UHD
+561	Sky Sport Bundesliga 1 (nur bei Bedarf auf Sendung)	HD	DVB-C	Sky Fußball Bundesliga
+562	Sky Sport Bundesliga 2 (nur bei Bedarf auf Sendung)	HD	DVB-C	Sky Fußball Bundesliga
+563	Sky Sport Bundesliga 3 (nur bei Bedarf auf Sendung)	HD	DVB-C	Sky Fußball Bundesliga
+564	Sky Sport Bundesliga 4 (nur bei Bedarf auf Sendung)	HD	DVB-C	Sky Fußball Bundesliga
+565	Sky Sport Bundesliga 5 (nur bei Bedarf auf Sendung)	HD	DVB-C	Sky Fußball Bundesliga
+571	Sky Sport 1 (nur bei Bedarf auf Sendung)	HD	DVB-C	Sky Sport
+572	Sky Sport 2 (nur bei Bedarf auf Sendung)	HD	DVB-C	Sky Sport
+573	Sky Sport 3 (nur bei Bedarf auf Sendung)	HD	DVB-C	Sky Sport 3
+574	Sky Sport 4 (nur bei Bedarf auf Sendung)	HD	DVB-C	Sky Sport
+575	Sky Sport 5 (nur bei Bedarf auf Sendung)	HD	DVB-C	Sky Sport
+598	Prime Sportsbar (nur bei Bedarf auf Sendung)	HD	DVB-C	Sky Business
